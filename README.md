@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALonelySheep
-- Here is my blog: https://alonelysheep.github.io/quartz-blog/ 
+- If you want to know more about me, here is my **blog**! https://alonelysheep.github.io/quartz-blog/ 
 
 <!---
 ALonelySheep/ALonelySheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
